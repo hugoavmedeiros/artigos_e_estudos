@@ -1,5 +1,5 @@
 # Artigos e Estudos
-## Códigos e dados utilizadas em artigos científicos e estudos técnicos de nossa autoria
 
-### Confiabilidade de Dados de Covid19 na América Latina
+## “Won’t get fooled again”: statistical fault detection in COVID-19 Latin American data
+[Artigo](https://globalizationandhealth.biomedcentral.com/articles/10.1186/s12992-022-00899-1)
 [Código e Dados](https://github.com/hugoavmedeiros/artigos_e_estudos/tree/main/covid19_latin_america/versao_final)
